@@ -4,7 +4,7 @@ const axios = require("axios");
 const { MercadoPagoConfig, Payment, Preference } = require("mercadopago");
 
 // Configurações
-const BOT_TOKEN = "desgraçado do token do seu bot aki fdp";
+const BOT_TOKEN = "8377895337:AAH-Gn8i9fnnGXYpliFGfQhMpDrltglc858";
 const ADMIN_ID = 7132354672;
 const MP_ACCESS_TOKEN = "SUA_ACCESS_TOKEN_DO_MERCADO_PAGO"; // CONFIGURE AQUI
 
